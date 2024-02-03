@@ -2,10 +2,10 @@
 - 👀 I’m interested in Cryptography and Information Security.
 - From bitslice implemenations to trade-off (time-memory / data-time-memory)
 - High performance implementations (platform and method (mode of operation, bitslice/tables) independent)
-- I am trying to publish two academic papers.
-- You can reach my article on Attacks Mounted against COLM @ https://www.sciencedirect.com/science/article/pii/S2214212622001879
+- I am working on two academic papers.
+- You can reach my published article on Attacks Mounted against COLM @ https://www.sciencedirect.com/science/article/pii/S2214212622001879
 - 
-- I see all of the below as tools to show my abilities in Cryptography and Information Security.
+- I see the below as tools to show my abilities in Cryptography and Information Security.
 - They should be useful as libraries or performance, in other case I see them as burden.
 - Data Structures and Algorithms
 - Standard Template Library 
@@ -35,6 +35,7 @@
 - Unit Testing: I don't know why but people seem to be interesting on this topic.
 - 
 - 📫 How to reach me ulusoy.coding+github@gmail.com
+- leetcode: www.leetcode.com/eulusoy
 
 <!---
 seulusoy/seulusoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
