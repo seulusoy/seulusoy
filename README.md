@@ -18,15 +18,15 @@
 - 
 - I see the below as tools to show my abilities in Cryptography and Information Security.
 - They should be useful as libraries or performance, in other case I see them as burden.
--   Data Structures and Algorithms
--   Standard Template Library 
--   Multithreading
--   Python
--   OOP
--   Unit Testing
--   VHDL
--   CUDA
--   C++
+-     Data Structures and Algorithms
+-     Standard Template Library 
+-     Multithreading
+-     Python
+-     OOP
+-     Unit Testing
+-     VHDL
+-     CUDA
+-     C++
 - 
 - 🌱 I am kind of experienced in (more to less)
 -   C++
