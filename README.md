@@ -1,7 +1,18 @@
 - 👋 Hi, I’m @seulusoy
 - 👀 I’m interested in Cryptography and Information Security.
-- From bitslice implemenations to trade-off (time-memory / data-time-memory)
-- High performance implementations (platform and method (mode of operation, bitslice/tables) independent)
+- From bitslice implemenations to  (time-memory/data-time-memory) trade-offs, (Hellman/Rainbow) tables
+- High performance implementations
+-   Platform Independent
+-     CPU
+-     GPU
+-     FPGA
+-   Method Independent
+-     Parallel
+-     Unrolled
+-     Pipelined
+-     Bitsliced
+-     Tables
+- 
 - I am working on two academic papers.
 - You can reach my published article on Attacks Mounted against COLM @ https://www.sciencedirect.com/science/article/pii/S2214212622001879
 - 
@@ -25,7 +36,7 @@
 - VHDL
 - CUDA
 - C++
-- I am currently learning all (I believe in continues learning)
+- I am currently learning all (I believe in continuous learning)
 - 
 - At the moment, I am focused on Data Structures and Algorithms.
 - My learning path is as following:
