@@ -10,7 +10,7 @@
 - CUDA
 - C++
 - 
-- 🌱 I am sort of experienced in
+- 🌱 I am kind of experienced in
 - Data Structures and Algorithms
 - Standard Template Library
 - Multithreading
