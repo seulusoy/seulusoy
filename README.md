@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @seulusoy
-- 👀 I’m interested in
+- 👀 I’m interested in Cryptography and Information Security.
+- From bitslice implemenations to trade-off (time-memory / data-time-memory)
+- High performance implementations (platform and method (mode of operation, bitslice/tables) independent)
+- I am trying to publish two academic papers.
+- You can reach my article on Attacks Mounted against COLM @ https://www.sciencedirect.com/science/article/pii/S2214212622001879
+- 
+- I see all of the below as tools to show my abilities in Cryptography and Information Security.
+- They should be useful as libraries or performance, in other case I see them as burden.
 - Data Structures and Algorithms
 - Standard Template Library 
 - Multithreading
