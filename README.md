@@ -18,34 +18,34 @@
 - 
 - I see the below as tools to show my abilities in Cryptography and Information Security.
 - They should be useful as libraries or performance, in other case I see them as burden.
-- Data Structures and Algorithms
-- Standard Template Library 
-- Multithreading
-- Python
-- OOP
-- Unit Testing
-- VHDL
-- CUDA
-- C++
+-   Data Structures and Algorithms
+-   Standard Template Library 
+-   Multithreading
+-   Python
+-   OOP
+-   Unit Testing
+-   VHDL
+-   CUDA
+-   C++
 - 
-- 🌱 I am kind of experienced in
-- Data Structures and Algorithms
-- Standard Template Library
-- Multithreading
-- OOP
-- VHDL
-- CUDA
-- C++
+- 🌱 I am kind of experienced in (more to less)
+-   C++
+-   Standard Template Library
+-   Data Structures and Algorithms
+-   Multithreading
+-   VHDL
+-   CUDA
+-   OOP
 - I am currently learning all (I believe in continuous learning)
 - 
-- At the moment, I am focused on Data Structures and Algorithms.
+- At the moment, I am focused on learning Data Structures and Algorithms.
 - My learning path is as following:
-- Data Structures and Algorithms
 - Python only enough to solve questions in cryptohack
 - C++: At the moment, I don't use OOP but I use other aspects stl and multithreading
 - Unit Testing: I don't know why but people seem to be interesting on this topic.
 - 
 - 📫 How to reach me ulusoy.coding+github@gmail.com
+- linkedin: https://www.linkedin.com/in/s%C4%B1rr%C4%B1-erdem-ulusoy-a21049114/
 - leetcode: www.leetcode.com/eulusoy
 
 <!---
