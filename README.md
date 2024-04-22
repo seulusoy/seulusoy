@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seulusoy
 - 👀 I’m interested in Cryptography and Information Security.
 - From bitslice implemenations to  (time-memory/data-time-memory) trade-offs, (Hellman/Rainbow) tables
-- High performance implementations
+- High performance implementations such as:
 -   Platform Independent
 -     CPU
 -     GPU
@@ -40,7 +40,7 @@
 - 
 - At the moment, I am focused on learning Data Structures and Algorithms.
 - My learning path is as following:
-- Python only enough to solve questions in cryptohack
+- Python only enough to use as a tool to solve questions in cryptohack
 - C++: At the moment, I don't use OOP but I use other aspects stl and multithreading
 - Unit Testing: I don't know why but people seem to be interesting on this topic.
 - 
